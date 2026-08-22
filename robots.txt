@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://preeminent-pegasus-90885a.netlify.app/sitemap.xml
