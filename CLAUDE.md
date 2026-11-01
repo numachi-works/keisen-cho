@@ -66,6 +66,9 @@ git push
    必ずgrepで確認してから使う(ズレると計測が壊れる)。
    例外: 松井証券コード `69HAA`(www11)は glossary-shin-nisa.html 専用で他記事に使わない。
 7. index.html の「用語解説」ボックス(用語解説記事の場合)にリンク追加、sitemap.xmlに`<url>`追加
+   - 用語解説記事(glossary-*.html)には、`関連記事` ボックスの直後・シェアボタン行の前に
+     Kindle本の紹介ボックスを入れる(既存の glossary-per-pbr.html などと同じHTMLをコピーする。
+     本のリンクは https://amzn.asia/d/011Rn9Oq)。個別銘柄記事には入れない。
 8. 公開前チェック: タグの開閉バランス(div/p/h2/a/script/head/html/body)をPythonで数える、
    JSON-LDは `json.loads()` で構文確認
 9. 上記コミット規約でcommit + push
