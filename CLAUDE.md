@@ -24,8 +24,9 @@
 - GitHub Search Console: keisencho.com のURLプレフィックスプロパティを2026/10/22に作成・確認済み。
   sitemap (https://keisencho.com/sitemap.xml) 送信済み。トップページはインデックス登録済み確認済み。
   新規プロパティなので「ページ」レポートが「未処理」多数でもしばらくは正常。
-- AdSense: publisher ID `pub-8069668191912447`。keisencho.comをサイトとして登録し審査リクエスト済み
-  (2026/10頃、結果待ち)。ads.txt設置済み: `google.com, pub-8069668191912447, DIRECT, f08c47fec0942fa0`
+- AdSense: publisher ID `pub-8069668191912447`。keisencho.comをサイトとして登録し審査リクエストしたが、
+  2026/11/1に審査不合格(理由は未確認)。以降は再申請していない(ユーザー申告、2026/11/11)。
+  記事拡充後に再申請予定。ads.txt設置済み: `google.com, pub-8069668191912447, DIRECT, f08c47fec0942fa0`
 
 ## Git コミット規約
 
